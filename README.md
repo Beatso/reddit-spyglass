@@ -1,0 +1,1 @@
+14/11/2020: this repo is now archived. the site can be found at https://www.beatso.tk/project/redditspyglass/ and the source code at https://github.com/Beatso/Website/tree/main/static/project/redditspyglass
